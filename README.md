@@ -12,7 +12,7 @@
 
 **About Personal Status:**
 Hi, I'm Khang Vo, a Backend Developer 🚀 from India, currently, I'm a Project Core Commiter. Beside's programming, I enjoy cafe with friends and traveling.
-<img align="right" alt="GIF" src="https://github.com/SubereV/SubereV/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/SubereV/SubereV/blob/main/assert/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Project FUDN Library
 - 🌱 I’m currently learning Spring Boot vs Spring Cloud
