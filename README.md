@@ -15,7 +15,7 @@ Hi, I'm Khang Vo, a Backend Developer 🚀 from Danang - Vietnam, currently, I'm
 <img align="right" alt="GIF" src="https://github.com/SubereV/SubereV/blob/main/assert/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Project FUDN Library
-- 🌱 I’m currently learning Spring Boot vs Spring Cloud
+- 🌱 I’m currently working with Java and Nodejs
 - 👯 I’m looking to collaborate on React
 <!-- - 🤔 I’m looking for help with A -->
 - 💬 Ask me about anything
